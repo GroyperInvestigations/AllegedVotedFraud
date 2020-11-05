@@ -31,4 +31,4 @@ How out of the ordinary is this? According, again, to the Wisconsin Electoral Co
 | 1952 | 71.56% |
 | 1948 | 57.71% |
 
-These numbers make %89.5 suspicious. However, they are calculated as a percentage of the total voting population, which is estimated to be 4,536,293 this year ([per the WEC](https://web.archive.org/web/20201104192340/https://elections.wi.gov/elections-voting/statistics/turnout)), giving a turnout of 72.7%. A near record turnout, but not nearly so suspicious.
+These numbers make 89.5% suspicious. However, they are calculated as a percentage of the total voting population, which is estimated to be 4,536,293 this year ([per the WEC](https://web.archive.org/web/20201104192340/https://elections.wi.gov/elections-voting/statistics/turnout)), giving a turnout of 72.7%. A near record turnout, but not nearly so suspicious.
